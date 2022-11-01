@@ -22,3 +22,7 @@ p {
 .output {
   opacity: 0;
 }
+
+.clipboard {
+  opacity: 0;
+}
